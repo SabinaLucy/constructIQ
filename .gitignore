@@ -7,3 +7,8 @@ data/processed/chromadb/
 models/*.pt
 models/*.pkl
 .DS_Store
+models/*.png
+models/*.jpg
+models/*.jpeg
+models/*.pdf
+data/processed/
