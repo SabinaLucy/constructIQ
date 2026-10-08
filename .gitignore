@@ -12,3 +12,4 @@ models/*.jpg
 models/*.jpeg
 models/*.pdf
 data/processed/
+*.db
